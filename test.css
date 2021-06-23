@@ -2535,13 +2535,13 @@
   box-shadow: 0 0 3px 1px rgb(0, 0, 0 ), 0 0 3px 1px rgb(0, 0, 0 ), 0 0 3px 1px rgb(0, 0, 0 );
 }
 svg.homeIcon-FuNwkv{
-    color:transparent;
+    color: transparent;
+    background-color: transparent;
 }
 .homeIcon-FuNwkv{
     background-image: url("https://media3.giphy.com/media/txYaeOwya6poPwC7S7/giphy.gif");
     background-size: cover;
     background-position: center;
-    background-color:transparent;
 }
 .container-lRFx4q{
     background-color: transparent;
